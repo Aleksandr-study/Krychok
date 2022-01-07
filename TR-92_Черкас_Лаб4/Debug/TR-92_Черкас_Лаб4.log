@@ -1,0 +1,4 @@
+﻿  Main2.cpp
+C:\Users\Dell\source\repos\TR-92_Черкас_Лаб4\Main2.cpp(114,15): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Dell\source\repos\TR-92_Черкас_Лаб4\Main2.cpp(114,12): warning C4101: r: неиспользованная локальная переменная
+LINK : fatal error LNK1168: не удается открыть C:\Users\Dell\source\repos\TR-92_Черкас_Лаб4\Debug\TR-92_Черкас_Лаб4.exe для записи

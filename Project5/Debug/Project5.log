@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Dell\source\repos\Project5\Source.c(24,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  Project5.vcxproj -> C:\Users\Dell\source\repos\Project5\Debug\Project5.exe

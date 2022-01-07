@@ -1,0 +1,8 @@
+﻿  TR-92_Cherkas_MKR1.cpp
+C:\Users\Dell\source\repos\TR-91_Cherkas_MKR1\TR-92_Cherkas_MKR1.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dell\source\repos\TR-91_Cherkas_MKR1\TR-92_Cherkas_MKR1.cpp(177,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dell\source\repos\TR-91_Cherkas_MKR1\TR-92_Cherkas_MKR1.cpp(181,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dell\source\repos\TR-91_Cherkas_MKR1\TR-92_Cherkas_MKR1.cpp(186,48): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dell\source\repos\TR-91_Cherkas_MKR1\TR-92_Cherkas_MKR1.cpp(190,48): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dell\source\repos\TR-91_Cherkas_MKR1\TR-92_Cherkas_MKR1.cpp(164,6): warning C4101: j: неиспользованная локальная переменная
+  TR-91_Cherkas_MKR1.vcxproj -> C:\Users\Dell\source\repos\TR-91_Cherkas_MKR1\Debug\TR-91_Cherkas_MKR1.exe

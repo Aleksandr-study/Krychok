@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Dell\source\repos\мкрК\main.cpp(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dell\source\repos\мкрК\main.cpp(146,26): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Dell\source\repos\мкрК\main.cpp(156,11): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Dell\source\repos\мкрК\main.cpp(133,10): warning C4101: m: неиспользованная локальная переменная
+C:\Users\Dell\source\repos\мкрК\main.cpp(16,7): warning C4101: a: неиспользованная локальная переменная
+C:\Users\Dell\source\repos\мкрК\main.cpp(133,13): warning C4101: q: неиспользованная локальная переменная
+C:\Users\Dell\source\repos\мкрК\main.cpp(133,7): warning C4101: n: неиспользованная локальная переменная
+  мкрК.vcxproj -> C:\Users\Dell\source\repos\мкрК\Debug\мкрК.exe

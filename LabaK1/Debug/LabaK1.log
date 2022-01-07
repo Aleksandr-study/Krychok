@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Dell\source\repos\LabaK1\main.cpp(233,15): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Dell\source\repos\LabaK1\main.cpp(233,12): warning C4101: r: неиспользованная локальная переменная
+  LabaK1.vcxproj -> C:\Users\Dell\source\repos\LabaK1\Debug\LabaK1.exe
